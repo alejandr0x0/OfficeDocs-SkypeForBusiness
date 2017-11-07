@@ -24,7 +24,7 @@ To enable the full Teams guest access experience, Office 365 admins need to sele
     
     
 
-- In SharePoint Online: **Only allow sharing with external users already in the directory**
+- In SharePoint Online: **Only allow sharing with external users already in the directory** OR **Sharing with authenticated external users** OR **Sharing with anonymous users**
     
     For more information, see [Manage external sharing for your SharePoint Online environment](https://support.office.com/en-us/article/Manage-external-sharing-for-your-SharePoint-Online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85).
     
